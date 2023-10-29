@@ -1,0 +1,24 @@
+.main{
+    background-color:rgb(120, 246, 120);
+}
+.login{
+    background-color: rgb(120, 246, 120);
+}
+login .sidebar-content {
+    background-color: #111 !important;
+}
+.p{
+    color: #070000;
+    font-weight: 300;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+h1 {
+    color: #000000;
+    font-weight: bold;
+}
+
+.button{
+    color:#000000;
+}
